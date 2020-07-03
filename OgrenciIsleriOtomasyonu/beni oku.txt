@@ -1,0 +1,30 @@
+EYÜP BAYIROĞLU
+
+database name:otomasyon
+user name:admin
+password:123456
+
+Database de kayıtlı öğrenciler
+
+Numara	İsim	Şifre
+12	eyup	159753
+45	ali	1478
+24	ahmet	abc123
+478	100	111
+100	deneme	100
+99	asd	99
+
+Database de kayıtlı öğretim üyeleri
+
+Numara	İsim	        Şifre
+10	ogruyesi1	112233
+858	ogruyesi2	2233
+250	ogruyesi3	1111  (tanımlanmış dersi yok, not giremez)
+
+Ana menüden admin menüsüne girmek için:
+admin ismi: admin
+şifre: 123456
+
+Yeni kayıt olan bir öğretim üyesinin not veya yoklama bilgisi girebilmesi için ona ders tanımlanması gerekiyor. Bu da admin menüsünden
+yapılabilir.
+
