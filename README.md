@@ -1,2 +1,2 @@
 # OgrenciIsleriOtomasyonu
-Konsol üzerinden çalışan basit bir öğrenci işleri otomasyonu programı.
+Konsol üzerinden çalışan, verilerin database'de tutulduğu basit bir öğrenci işleri otomasyonu programı.
